@@ -1,0 +1,1 @@
+# FuckIt Versioning Specification
