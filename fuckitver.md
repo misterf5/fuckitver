@@ -9,3 +9,8 @@ Given a version number MAJOR.MINOR.PATCH, increment the:
 3. PATCH version whenever the fuck you want
 
 Additional labels for whatever the fuck you want are allowable whenever the fuck you want.
+
+## About
+
+Website: [https://fuckitver.org](https://fuckitver.org)  
+Github: [https://github.com/misterf5/fuckitver](https://github.com/misterf5/fuckitver)
